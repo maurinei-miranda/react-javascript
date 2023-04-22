@@ -1,0 +1,14 @@
+.user {
+
+}
+
+.user img {
+    text-align: center;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+}
+.user label {
+    text-align: center;
+    display: inline-block;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.campo-texto {
+}
+
+.campo-texto label {
+display: block;
+margin-bottom: 8px;
+font-size: 24px;
+}
+
+.campo-texto input {
+    background-color: aliceblue;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    padding: 24px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}

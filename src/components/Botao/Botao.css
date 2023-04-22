@@ -1,0 +1,12 @@
+.botao {
+    background-color: purple;
+    margin: 20px 0px;
+    padding: 16px;
+    color: white;
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+}
